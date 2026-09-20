@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Moving Checklist — 1174 Liberty Dr</title>
+<style>
+:root{
+  --red:#EE3625; --red-deep:#9E1B0E; --ink:#1A1A1A; --charcoal:#3A3A3A;
+  --slate:#6B6B6B; --cloud:#EDEDED; --paper:#F7F6F4; --white:#FFFFFF; --good:#1C7A3B;
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--paper);color:var(--ink);font-family:-apple-system,Helvetica,Arial,sans-serif;-webkit-font-smoothing:antialiased}
+.wrap{max-width:680px;margin:0 auto;padding:32px 20px 56px}
+.brandbar{height:4px;background:var(--red);border-radius:2px;margin-bottom:20px}
+.eyebrow{font-weight:700;letter-spacing:.12em;text-transform:uppercase;font-size:12px;color:var(--red);margin-bottom:6px}
+h1{font-size:26px;font-weight:800;margin:0 0 6px;letter-spacing:-.01em}
+.sub{font-size:14.5px;color:var(--slate);margin-bottom:22px}
+
+.progress-wrap{margin:0 0 20px}
+.progress-label{font-size:12.5px;color:var(--slate);margin-bottom:6px;display:flex;justify-content:space-between;font-weight:600}
+.progress-track{height:8px;background:var(--cloud);border-radius:4px;overflow:hidden}
+.progress-fill{height:100%;background:var(--good);border-radius:4px;width:0%;transition:width .3s ease}
+
+h2{font-size:14px;font-weight:700;text-transform:uppercase;letter-spacing:.08em;color:var(--charcoal);border-bottom:1px solid var(--cloud);padding-bottom:8px;margin:30px 0 14px}
+ul.check{list-style:none;margin:0 0 4px;padding:0}
+ul.check li{display:flex;gap:12px;align-items:flex-start;padding:10px 0;border-bottom:1px solid var(--cloud);font-size:14.5px;line-height:1.45}
+ul.check li:last-child{border-bottom:none}
+ul.check li input[type=checkbox]{flex:0 0 20px;width:20px;height:20px;margin:1px 0 0;accent-color:var(--good);cursor:pointer}
+label.item{cursor:pointer;flex:1}
+.item strong{display:block;color:var(--ink);transition:color .2s ease}
+.item span{color:var(--slate);font-size:13px}
+li.done .item strong{color:var(--slate);text-decoration:line-through}
+li.done .item span{opacity:.65}
+
+.callout{background:#FBE3DF;border-radius:10px;padding:14px 16px;font-size:13.5px;color:var(--red-deep);font-weight:600;margin:20px 0}
+.footnote{margin-top:36px;padding-top:16px;border-top:1px solid var(--cloud);font-size:11.5px;color:#B8B8B8;line-height:1.6}
+</style>
+</head>
+<body>
+  <div class="wrap">
+    <div class="brandbar"></div>
+    <div class="eyebrow">Moving Checklist</div>
+    <h1>1174 Liberty Dr, Indianapolis, IN 46234</h1>
+    <div class="sub">Closing targeted for 08/17/2026 &middot; Prepared for Shannon &amp; Juvenal Garcia</div>
+
+    <div class="progress-wrap">
+      <div class="progress-label"><span id="progress-text">0 of 0 complete</span></div>
+      <div class="progress-track"><div class="progress-fill" id="progress-fill"></div></div>
+    </div>
+
+    <div class="callout">Reminder: any inspection repairs need paid receipts/documentation at least 3 days before closing (by 08/14/2026).</div>
+
+    <h2>4&ndash;6 Weeks Before Closing</h2>
+    <ul class="check">
+      <li><input type="checkbox" id="c-contractors"><label class="item" for="c-contractors"><strong>Line up contractors for the buyer's requested repairs</strong><span>Exterior trim/door frame, roof, HVAC/chimney, window seals &amp; fireplace &mdash; see Seller's Inspection Reply.</span></label></li>
+      <li><input type="checkbox" id="c-hoa"><label class="item" for="c-hoa"><strong>Notify the HOA of your move</strong><span>Four Seasons Property Mgmt &mdash; Tom Ferrandez, 317-710-7502, tferrandez@gmail.com. Confirm quarterly dues ($68.75) are current.</span></label></li>
+      <li><input type="checkbox" id="c-declutter"><label class="item" for="c-declutter"><strong>Start decluttering &amp; packing non-essentials</strong><span>Attic, garage, and storage areas first.</span></label></li>
+      <li><input type="checkbox" id="c-movers-research"><label class="item" for="c-movers-research"><strong>Research movers or reserve a truck</strong><span>Book early &mdash; August is peak moving season.</span></label></li>
+    </ul>
+
+    <h2>2&ndash;3 Weeks Before Closing</h2>
+    <ul class="check">
+      <li><input type="checkbox" id="c-usps"><label class="item" for="c-usps"><strong>File a USPS change of address</strong><span>usps.com/move &mdash; takes effect ~2 weeks out.</span></label></li>
+      <li><input type="checkbox" id="c-utilities"><label class="item" for="c-utilities"><strong>Schedule utility transfer/cancellation for 08/17/2026</strong><span>Gas &ndash; CenterPoint Energy &middot; Electric &ndash; Hendricks Power Cooperative &middot; Water &ndash; Citizens Energy Group &middot; Sewer &ndash; Aqua Systems &middot; Cable/Internet &ndash; AT&amp;T</span></label></li>
+      <li><input type="checkbox" id="c-trash"><label class="item" for="c-trash"><strong>Cancel or transfer trash service</strong><span>Waste Management, ~$49/quarter.</span></label></li>
+      <li><input type="checkbox" id="c-yard"><label class="item" for="c-yard"><strong>Cancel or transfer yard care</strong><span>Spring Green, ~$280/year, if continuing isn't needed at the new address.</span></label></li>
+      <li><input type="checkbox" id="c-insurance"><label class="item" for="c-insurance"><strong>Update your homeowner's/renter's insurance</strong><span>Notify your carrier of the move-out date and any new-address coverage.</span></label></li>
+      <li><input type="checkbox" id="c-address-updates"><label class="item" for="c-address-updates"><strong>Update your address with banks, employer, subscriptions, and voter registration</strong></label></li>
+      <li><input type="checkbox" id="c-school"><label class="item" for="c-school"><strong>Transfer school records</strong><span>Sycamore Elementary / Avon Middle School North / Avon High School, if applicable.</span></label></li>
+    </ul>
+
+    <h2>1 Week Before Closing</h2>
+    <ul class="check">
+      <li><input type="checkbox" id="c-walkthrough-time"><label class="item" for="c-walkthrough-time"><strong>Confirm the final walkthrough time</strong><span>Coordinate with the buyer's agent (Jennifer Holden, Highgarden Real Estate).</span></label></li>
+      <li><input type="checkbox" id="c-receipts"><label class="item" for="c-receipts"><strong>Gather paid receipts/documentation for all completed repair work</strong><span>Due to buyer at least 3 days before closing per the inspection response.</span></label></li>
+      <li><input type="checkbox" id="c-rented-equipment"><label class="item" for="c-rented-equipment"><strong>Return any rented equipment</strong><span>Confirm water softener status &mdash; not included in the sale.</span></label></li>
+      <li><input type="checkbox" id="c-movers-confirm"><label class="item" for="c-movers-confirm"><strong>Confirm mover/truck details and moving-day timeline</strong></label></li>
+    </ul>
+
+    <h2>Closing Day &mdash; 08/17/2026</h2>
+    <ul class="check">
+      <li><input type="checkbox" id="c-leave-items"><label class="item" for="c-leave-items"><strong>Leave all items that convey with the sale</strong><span>See the separate "What Stays &amp; What Goes" checklist.</span></label></li>
+      <li><input type="checkbox" id="c-remove-property"><label class="item" for="c-remove-property"><strong>Remove all personal property and debris</strong><span>Required under the Purchase Agreement's Maintenance of Property terms.</span></label></li>
+      <li><input type="checkbox" id="c-garage-remotes"><label class="item" for="c-garage-remotes"><strong>Leave garage remotes, mailbox key(s), and any HOA amenity access</strong></label></li>
+      <li><input type="checkbox" id="c-manuals"><label class="item" for="c-manuals"><strong>Leave appliance manuals/warranties if you have them</strong></label></li>
+      <li><input type="checkbox" id="c-final-walkthrough"><label class="item" for="c-final-walkthrough"><strong>Do a final walk-through</strong><span>All rooms, closets, garage, basement, and yard.</span></label></li>
+      <li><input type="checkbox" id="c-utilities-on"><label class="item" for="c-utilities-on"><strong>Keep utilities on through the day of possession</strong><span>Seller pays utilities/municipal services through the day of possession per the Purchase Agreement.</span></label></li>
+      <li><input type="checkbox" id="c-keys"><label class="item" for="c-keys"><strong>Lock up and hand off keys per the closing agent's instructions</strong></label></li>
+    </ul>
+
+    <div class="footnote">
+      Prepared by Scott White &middot; @properties Indy. Reference only &mdash; the signed Purchase Agreement and any addenda are the controlling documents for this transaction.<br>
+      Checkmarks are saved in this browser only &mdash; they won't sync across devices.
+    </div>
+  </div>
+
+<script>
+(function(){
+  var STORAGE_KEY = 'moving-checklist-1174-liberty-dr-v1';
+  var boxes = Array.prototype.slice.call(document.querySelectorAll('ul.check input[type=checkbox]'));
+  var progressText = document.getElementById('progress-text');
+  var progressFill = document.getElementById('progress-fill');
+
+  function load(){
+    try { return JSON.parse(localStorage.getItem(STORAGE_KEY)) || {}; }
+    catch(e){ return {}; }
+  }
+  function save(state){
+    try { localStorage.setItem(STORAGE_KEY, JSON.stringify(state)); }
+    catch(e){}
+  }
+  function updateProgress(){
+    var total = boxes.length;
+    var done = boxes.filter(function(b){ return b.checked; }).length;
+    progressText.textContent = done + ' of ' + total + ' complete';
+    progressFill.style.width = (total ? (done/total*100) : 0) + '%';
+  }
+  function setRowState(box){
+    var li = box.closest('li');
+    li.classList.toggle('done', box.checked);
+  }
+
+  var state = load();
+  boxes.forEach(function(box){
+    if (state[box.id]) box.checked = true;
+    setRowState(box);
+    box.addEventListener('change', function(){
+      var s = load();
+      s[box.id] = box.checked;
+      save(s);
+      setRowState(box);
+      updateProgress();
+    });
+  });
+  updateProgress();
+})();
+</script>
+</body>
+</html>
