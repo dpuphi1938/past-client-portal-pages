@@ -1,0 +1,73 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Scott White Transaction Portal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:10710 Dartmoor Way Transaction Timeline
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:james-gilbert-jR83c6bJ4ZJAJcK7I4T9Fg-listing-contract-signed@portal.bo
+ ughtwithscott.com
+DTSTAMP:20261029T012011Z
+DTSTART;VALUE=DATE:20260227
+DTEND;VALUE=DATE:20260228
+SUMMARY:Listing Contract Signed — 10710 Dartmoor Way
+DESCRIPTION:Done — https://dpuphi1938.github.io/client-portal-pages/james-
+ gilbert-jR83c6bJ4ZJAJcK7I4T9Fg/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:james-gilbert-jR83c6bJ4ZJAJcK7I4T9Fg-purchase-agreement-accepted-515-0
+ 00@portal.boughtwithscott.com
+DTSTAMP:20261029T012011Z
+DTSTART;VALUE=DATE:20260304
+DTEND;VALUE=DATE:20260305
+SUMMARY:Purchase Agreement Accepted ($515\,000) — 10710 Dartmoor Way
+DESCRIPTION:Done — https://dpuphi1938.github.io/client-portal-pages/james-
+ gilbert-jR83c6bJ4ZJAJcK7I4T9Fg/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:james-gilbert-jR83c6bJ4ZJAJcK7I4T9Fg-hoa-transfer-letter-ordered@porta
+ l.boughtwithscott.com
+DTSTAMP:20261029T012011Z
+DTSTART;VALUE=DATE:20260311
+DTEND;VALUE=DATE:20260312
+SUMMARY:HOA Transfer Letter Ordered — 10710 Dartmoor Way
+DESCRIPTION:Done — https://dpuphi1938.github.io/client-portal-pages/james-
+ gilbert-jR83c6bJ4ZJAJcK7I4T9Fg/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:james-gilbert-jR83c6bJ4ZJAJcK7I4T9Fg-earnest-money-agreement-signed@po
+ rtal.boughtwithscott.com
+DTSTAMP:20261029T012011Z
+DTSTART;VALUE=DATE:20260312
+DTEND;VALUE=DATE:20260313
+SUMMARY:Earnest Money Agreement Signed — 10710 Dartmoor Way
+DESCRIPTION:Done — https://dpuphi1938.github.io/client-portal-pages/james-
+ gilbert-jR83c6bJ4ZJAJcK7I4T9Fg/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:james-gilbert-jR83c6bJ4ZJAJcK7I4T9Fg-prelim-title-received@portal.boug
+ htwithscott.com
+DTSTAMP:20261029T012011Z
+DTSTART;VALUE=DATE:20260406
+DTEND;VALUE=DATE:20260407
+SUMMARY:Prelim Title Received — 10710 Dartmoor Way
+DESCRIPTION:Done — https://dpuphi1938.github.io/client-portal-pages/james-
+ gilbert-jR83c6bJ4ZJAJcK7I4T9Fg/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:james-gilbert-jR83c6bJ4ZJAJcK7I4T9Fg-closing@portal.boughtwithscott.com
+DTSTAMP:20261029T012011Z
+DTSTART;VALUE=DATE:20260410
+DTEND;VALUE=DATE:20260411
+SUMMARY:Closing — 10710 Dartmoor Way
+DESCRIPTION:Done — https://dpuphi1938.github.io/client-portal-pages/james-
+ gilbert-jR83c6bJ4ZJAJcK7I4T9Fg/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
