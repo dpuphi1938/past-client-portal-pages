@@ -1,0 +1,85 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Scott White Transaction Portal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:1238 N Tibbs Ave Transaction Timeline
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:jeff-rich-h8szHiRe_DQKi4sBY9BPXw-listing-contract-signed@portal.bought
+ withscott.com
+DTSTAMP:20261029T012138Z
+DTSTART;VALUE=DATE:20260306
+DTEND;VALUE=DATE:20260307
+SUMMARY:Listing Contract Signed — 1238 N Tibbs Ave
+DESCRIPTION:Done — https://dpuphi1938.github.io/client-portal-pages/jeff-r
+ ich-h8szHiRe_DQKi4sBY9BPXw/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:jeff-rich-h8szHiRe_DQKi4sBY9BPXw-offer-received-200-000@portal.boughtw
+ ithscott.com
+DTSTAMP:20261029T012138Z
+DTSTART;VALUE=DATE:20260308
+DTEND;VALUE=DATE:20260309
+SUMMARY:Offer Received ($200\,000) — 1238 N Tibbs Ave
+DESCRIPTION:Done — https://dpuphi1938.github.io/client-portal-pages/jeff-r
+ ich-h8szHiRe_DQKi4sBY9BPXw/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:jeff-rich-h8szHiRe_DQKi4sBY9BPXw-purchase-agreement-accepted@portal.bo
+ ughtwithscott.com
+DTSTAMP:20261029T012138Z
+DTSTART;VALUE=DATE:20260309
+DTEND;VALUE=DATE:20260310
+SUMMARY:Purchase Agreement Accepted — 1238 N Tibbs Ave
+DESCRIPTION:Done — https://dpuphi1938.github.io/client-portal-pages/jeff-r
+ ich-h8szHiRe_DQKi4sBY9BPXw/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:jeff-rich-h8szHiRe_DQKi4sBY9BPXw-buyer-s-inspection-response-received@
+ portal.boughtwithscott.com
+DTSTAMP:20261029T012138Z
+DTSTART;VALUE=DATE:20260318
+DTEND;VALUE=DATE:20260319
+SUMMARY:Buyer's Inspection Response Received — 1238 N Tibbs Ave
+DESCRIPTION:Done — https://dpuphi1938.github.io/client-portal-pages/jeff-r
+ ich-h8szHiRe_DQKi4sBY9BPXw/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:jeff-rich-h8szHiRe_DQKi4sBY9BPXw-seller-s-inspection-reply-due@portal.
+ boughtwithscott.com
+DTSTAMP:20261029T012138Z
+DTSTART;VALUE=DATE:20260323
+DTEND;VALUE=DATE:20260324
+SUMMARY:Seller's Inspection Reply Due — 1238 N Tibbs Ave
+DESCRIPTION:Done — https://dpuphi1938.github.io/client-portal-pages/jeff-r
+ ich-h8szHiRe_DQKi4sBY9BPXw/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:jeff-rich-h8szHiRe_DQKi4sBY9BPXw-inspection-resolved-3-500-credit-amen
+ dment-clear-to-close@portal.boughtwithscott.com
+DTSTAMP:20261029T012138Z
+DTSTART;VALUE=DATE:20260324
+DTEND;VALUE=DATE:20260325
+SUMMARY:Inspection Resolved -- $3\,500 Credit Amendment\, Clear to Close —
+  1238 N Tibbs Ave
+DESCRIPTION:Done — https://dpuphi1938.github.io/client-portal-pages/jeff-r
+ ich-h8szHiRe_DQKi4sBY9BPXw/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:jeff-rich-h8szHiRe_DQKi4sBY9BPXw-closing@portal.boughtwithscott.com
+DTSTAMP:20261029T012138Z
+DTSTART;VALUE=DATE:20260403
+DTEND;VALUE=DATE:20260404
+SUMMARY:Closing — 1238 N Tibbs Ave
+DESCRIPTION:Done — https://dpuphi1938.github.io/client-portal-pages/jeff-r
+ ich-h8szHiRe_DQKi4sBY9BPXw/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
