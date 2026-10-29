@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Scott White Transaction Portal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:12438 Berry Patch Ln Transaction Timeline
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:blake-park-l4cKrYQLETOqnbg0PL6CXw-first-right-contingency-signed@porta
+ l.boughtwithscott.com
+DTSTAMP:20261029T012008Z
+DTSTART;VALUE=DATE:20251115
+DTEND;VALUE=DATE:20251116
+SUMMARY:First Right Contingency Signed — 12438 Berry Patch Ln
+DESCRIPTION:Done — https://dpuphi1938.github.io/client-portal-pages/blake-
+ park-l4cKrYQLETOqnbg0PL6CXw/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:blake-park-l4cKrYQLETOqnbg0PL6CXw-closing@portal.boughtwithscott.com
+DTSTAMP:20261029T012008Z
+DTSTART;VALUE=DATE:20260123
+DTEND;VALUE=DATE:20260124
+SUMMARY:Closing — 12438 Berry Patch Ln
+DESCRIPTION:Done — https://dpuphi1938.github.io/client-portal-pages/blake-
+ park-l4cKrYQLETOqnbg0PL6CXw/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
