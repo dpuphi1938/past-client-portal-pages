@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Scott White Transaction Portal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:6962 Gem Creek Ln Transaction Timeline
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:sean-mcpike-dndtnKXJJ6kxl2e1RuBHLg-purchase-agreement-accepted-3-count
+ ers@portal.boughtwithscott.com
+DTSTAMP:20261029T012131Z
+DTSTART;VALUE=DATE:20260224
+DTEND;VALUE=DATE:20260225
+SUMMARY:Purchase Agreement Accepted (3 Counters) — 6962 Gem Creek Ln
+DESCRIPTION:Done — https://dpuphi1938.github.io/client-portal-pages/sean-m
+ cpike-dndtnKXJJ6kxl2e1RuBHLg/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sean-mcpike-dndtnKXJJ6kxl2e1RuBHLg-closing-scheduled@portal.boughtwith
+ scott.com
+DTSTAMP:20261029T012131Z
+DTSTART;VALUE=DATE:20260318
+DTEND;VALUE=DATE:20260319
+SUMMARY:Closing Scheduled — 6962 Gem Creek Ln
+DESCRIPTION:Done — https://dpuphi1938.github.io/client-portal-pages/sean-m
+ cpike-dndtnKXJJ6kxl2e1RuBHLg/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sean-mcpike-dndtnKXJJ6kxl2e1RuBHLg-closing@portal.boughtwithscott.com
+DTSTAMP:20261029T012131Z
+DTSTART;VALUE=DATE:20260324
+DTEND;VALUE=DATE:20260325
+SUMMARY:Closing — 6962 Gem Creek Ln
+DESCRIPTION:Done — https://dpuphi1938.github.io/client-portal-pages/sean-m
+ cpike-dndtnKXJJ6kxl2e1RuBHLg/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
