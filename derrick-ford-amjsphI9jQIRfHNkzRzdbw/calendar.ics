@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Scott White Transaction Portal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:3824 Dusty Sands Transaction Timeline
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:derrick-ford-amjsphI9jQIRfHNkzRzdbw-purchase-agreement-accepted-350-00
+ 0@portal.boughtwithscott.com
+DTSTAMP:20261029T012032Z
+DTSTART;VALUE=DATE:20260629
+DTEND;VALUE=DATE:20260630
+SUMMARY:Purchase Agreement Accepted ($350\,000) — 3824 Dusty Sands
+DESCRIPTION:Done — https://dpuphi1938.github.io/client-portal-pages/derric
+ k-ford-amjsphI9jQIRfHNkzRzdbw/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:derrick-ford-amjsphI9jQIRfHNkzRzdbw-title-commitment-received@portal.b
+ oughtwithscott.com
+DTSTAMP:20261029T012032Z
+DTSTART;VALUE=DATE:20260706
+DTEND;VALUE=DATE:20260707
+SUMMARY:Title Commitment Received — 3824 Dusty Sands
+DESCRIPTION:Done — https://dpuphi1938.github.io/client-portal-pages/derric
+ k-ford-amjsphI9jQIRfHNkzRzdbw/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:derrick-ford-amjsphI9jQIRfHNkzRzdbw-closing@portal.boughtwithscott.com
+DTSTAMP:20261029T012032Z
+DTSTART;VALUE=DATE:20260713
+DTEND;VALUE=DATE:20260714
+SUMMARY:Closing — 3824 Dusty Sands
+DESCRIPTION:Done — https://dpuphi1938.github.io/client-portal-pages/derric
+ k-ford-amjsphI9jQIRfHNkzRzdbw/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
