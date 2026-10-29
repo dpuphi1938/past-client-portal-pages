@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Scott White Transaction Portal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:6602 English Dr Transaction Timeline
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:sue-schneider-3RmjIXvQlugJl-3E9QgxiQ-purchase-agreement-accepted-348-0
+ 00@portal.boughtwithscott.com
+DTSTAMP:20261029T012059Z
+DTSTART;VALUE=DATE:20260420
+DTEND;VALUE=DATE:20260421
+SUMMARY:Purchase Agreement Accepted ($348\,000) — 6602 English Dr
+DESCRIPTION:Done — https://dpuphi1938.github.io/client-portal-pages/sue-sc
+ hneider-3RmjIXvQlugJl-3E9QgxiQ/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sue-schneider-3RmjIXvQlugJl-3E9QgxiQ-closing-scheduled-confirmation-re
+ ceived@portal.boughtwithscott.com
+DTSTAMP:20261029T012059Z
+DTSTART;VALUE=DATE:20260520
+DTEND;VALUE=DATE:20260521
+SUMMARY:Closing Scheduled (Confirmation Received) — 6602 English Dr
+DESCRIPTION:Done — https://dpuphi1938.github.io/client-portal-pages/sue-sc
+ hneider-3RmjIXvQlugJl-3E9QgxiQ/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sue-schneider-3RmjIXvQlugJl-3E9QgxiQ-closing@portal.boughtwithscott.com
+DTSTAMP:20261029T012059Z
+DTSTART;VALUE=DATE:20260605
+DTEND;VALUE=DATE:20260606
+SUMMARY:Closing — 6602 English Dr
+DESCRIPTION:Done — https://dpuphi1938.github.io/client-portal-pages/sue-sc
+ hneider-3RmjIXvQlugJl-3E9QgxiQ/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
