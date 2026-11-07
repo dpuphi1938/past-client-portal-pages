@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Scott White Transaction Portal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:5937 Aldridge Dr Transaction Timeline
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:jonathan-roberts-_OdgSeWrSCMu8iNPWhvTBQ-listed@portal.boughtwithscott.
+ com
+DTSTAMP:20261107T231217Z
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260915
+SUMMARY:Listed — 5937 Aldridge Dr
+DESCRIPTION:Done — https://dpuphi1938.github.io/client-portal-pages/jonath
+ an-roberts-_OdgSeWrSCMu8iNPWhvTBQ/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:jonathan-roberts-_OdgSeWrSCMu8iNPWhvTBQ-under-contract@portal.boughtwi
+ thscott.com
+DTSTAMP:20261107T231217Z
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+SUMMARY:Under Contract — 5937 Aldridge Dr
+DESCRIPTION:Done — https://dpuphi1938.github.io/client-portal-pages/jonath
+ an-roberts-_OdgSeWrSCMu8iNPWhvTBQ/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:jonathan-roberts-_OdgSeWrSCMu8iNPWhvTBQ-closing@portal.boughtwithscott
+ .com
+DTSTAMP:20261107T231217Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+SUMMARY:Closing — 5937 Aldridge Dr
+DESCRIPTION:Done — https://dpuphi1938.github.io/client-portal-pages/jonath
+ an-roberts-_OdgSeWrSCMu8iNPWhvTBQ/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
