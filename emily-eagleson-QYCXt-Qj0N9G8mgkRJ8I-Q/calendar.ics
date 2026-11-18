@@ -1,0 +1,95 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Scott White Transaction Portal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:9348 Stones Ferry Way Transaction Timeline
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:emily-eagleson-QYCXt-Qj0N9G8mgkRJ8I-Q-listed@portal.boughtwithscott.com
+DTSTAMP:20261118T212742Z
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260502
+SUMMARY:Listed — 9348 Stones Ferry Way
+DESCRIPTION:Done — https://dpuphi1938.github.io/client-portal-pages/emily-
+ eagleson-QYCXt-Qj0N9G8mgkRJ8I-Q/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:emily-eagleson-QYCXt-Qj0N9G8mgkRJ8I-Q-under-contract@portal.boughtwith
+ scott.com
+DTSTAMP:20261118T212742Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+SUMMARY:Under Contract — 9348 Stones Ferry Way
+DESCRIPTION:Done — https://dpuphi1938.github.io/client-portal-pages/emily-
+ eagleson-QYCXt-Qj0N9G8mgkRJ8I-Q/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:emily-eagleson-QYCXt-Qj0N9G8mgkRJ8I-Q-closing@portal.boughtwithscott.c
+ om
+DTSTAMP:20261118T212742Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:Closing — 9348 Stones Ferry Way
+DESCRIPTION:Done — https://dpuphi1938.github.io/client-portal-pages/emily-
+ eagleson-QYCXt-Qj0N9G8mgkRJ8I-Q/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:emily-eagleson-QYCXt-Qj0N9G8mgkRJ8I-Q-loan-approval-deadline@portal.bo
+ ughtwithscott.com
+DTSTAMP:20261118T212742Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:Loan Approval Deadline — 9348 Stones Ferry Way
+DESCRIPTION:Done — https://dpuphi1938.github.io/client-portal-pages/emily-
+ eagleson-QYCXt-Qj0N9G8mgkRJ8I-Q/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:emily-eagleson-QYCXt-Qj0N9G8mgkRJ8I-Q-inspection-response-resolved@por
+ tal.boughtwithscott.com
+DTSTAMP:20261118T212742Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:Inspection Response Resolved — 9348 Stones Ferry Way
+DESCRIPTION:Done — https://dpuphi1938.github.io/client-portal-pages/emily-
+ eagleson-QYCXt-Qj0N9G8mgkRJ8I-Q/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:emily-eagleson-QYCXt-Qj0N9G8mgkRJ8I-Q-earnest-money-due-4-450@portal.b
+ oughtwithscott.com
+DTSTAMP:20261118T212742Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+SUMMARY:Earnest Money Due ($4\,450) — 9348 Stones Ferry Way
+DESCRIPTION:Done — https://dpuphi1938.github.io/client-portal-pages/emily-
+ eagleson-QYCXt-Qj0N9G8mgkRJ8I-Q/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:emily-eagleson-QYCXt-Qj0N9G8mgkRJ8I-Q-hoa-document-deadline@portal.bou
+ ghtwithscott.com
+DTSTAMP:20261118T212742Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+SUMMARY:HOA Document Deadline — 9348 Stones Ferry Way
+DESCRIPTION:Done — https://dpuphi1938.github.io/client-portal-pages/emily-
+ eagleson-QYCXt-Qj0N9G8mgkRJ8I-Q/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:emily-eagleson-QYCXt-Qj0N9G8mgkRJ8I-Q-insurance-deadline@portal.bought
+ withscott.com
+DTSTAMP:20261118T212742Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY:Insurance Deadline — 9348 Stones Ferry Way
+DESCRIPTION:Done — https://dpuphi1938.github.io/client-portal-pages/emily-
+ eagleson-QYCXt-Qj0N9G8mgkRJ8I-Q/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
